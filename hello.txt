@@ -1,2 +1,2 @@
 print("Hello world;");
-print("hello-advanced;");
+print("hello-advanced");
