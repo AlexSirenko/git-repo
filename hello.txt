@@ -1,3 +1,2 @@
 print("hello world");
-print("hello everybody");
-print("hello even you are fool")
+print("hello everybody")
