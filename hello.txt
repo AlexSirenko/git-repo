@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-print("Hello world");
 print("hello-advanced")
-=======
 print("Hello world;");
->>>>>>> master
